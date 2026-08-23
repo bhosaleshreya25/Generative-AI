@@ -1,6 +1,3 @@
-Sure. Here is the **complete edited README content** ready to copy-paste into your GitHub `README.md`.
-
-````markdown
 # Generative AI Lab – Pretrained Models Practical
 
 ## Bird Species Image Classification Using Deep Learning
