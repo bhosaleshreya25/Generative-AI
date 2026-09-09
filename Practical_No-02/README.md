@@ -334,11 +334,10 @@ Recorded examples from the notebook include:
 ## 17. Project Structure
 
 ```text
-SMS-Spam-Detection/
+Practical_No-02/
 │
 ├── Shreya_Bhosale_Generative_AI_Pr_2.ipynb
 ├── README.md
-├── SMSSpamCollection
 └── screenshots/
     ├── 01_class_distribution.png
     ├── 02_model_summary.png
