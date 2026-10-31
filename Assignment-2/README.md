@@ -61,7 +61,7 @@ The ten categories are T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shir
 
 ### Dataset Sample Images
 
-![Fashion-MNIST sample images](screenshots/fashion_mnist_dataset_samples.png)
+![Fashion-MNIST sample images](screenshots/01_fashion_mnist_samples.png)
 
 ---
 
@@ -87,11 +87,11 @@ The encoder uses convolutional layers to extract image features and compress the
 
 ### Training and Validation Loss
 
-![Autoencoder training and validation loss](screenshots/autoencoder_training_validation_loss.png)
+![Autoencoder training and validation loss](screenshots/03_autoencoder_loss.png)
 
 ### Reconstruction Results
 
-![Autoencoder reconstruction results](screenshots/autoencoder_reconstruction_results.png)
+![Autoencoder reconstruction results](screenshots/02_autoencoder_reconstruction.png)
 
 ### Test Evaluation
 
@@ -120,11 +120,11 @@ The VAE learns a probabilistic latent representation. The encoder predicts the m
 
 ### VAE Training Curves
 
-![VAE training curves](screenshots/vae_training_loss_components.png)
+![VAE training curves](screenshots/05_vae_loss.png)
 
 ### Reconstruction Results
 
-![VAE reconstruction results](screenshots/ae_vae_reconstruction_comparison.png)
+![VAE reconstruction results](screenshots/04_vae_reconstruction.png)
 
 ### Test Evaluation
 
@@ -158,11 +158,11 @@ The generator converts random noise vectors into images. The discriminator learn
 
 ### Generated Images
 
-![DCGAN generated images](screenshots/dcgan_generated_image_grid.png)
+![DCGAN generated images](screenshots/06_dcgan_generated_grid.png)
 
 ### Generator and Discriminator Loss
 
-![DCGAN generator and discriminator loss](screenshots/dcgan_generator_discriminator_loss.png)
+![DCGAN generator and discriminator loss](screenshots/07_dcgan_losses.png)
 
 ---
 
@@ -193,7 +193,7 @@ Unlike AE, VAE and DCGAN, this model is pretrained and is not trained on the Fas
 
 ### Generated Image
 
-![Stable Diffusion generated sneaker](screenshots/stable_diffusion_sneaker_generation.png)
+![Stable Diffusion generated sneaker](screenshots/08_stable_diffusion_output.png)
 
 ---
 
@@ -290,14 +290,14 @@ Assignment_02_Comparative_Study/
 ├── README.md
 │
 └── screenshots/
-    ├── fashion_mnist_dataset_samples.png
-    ├── autoencoder_reconstruction_results.png
-    ├── autoencoder_training_validation_loss.png
-    ├── ae_vae_reconstruction_comparison.png
-    ├── vae_training_loss_components.png
-    ├── dcgan_generated_image_grid.png
-    ├── dcgan_generator_discriminator_loss.png
-    ├── stable_diffusion_sneaker_generation.png
+    ├── 01_fashion_mnist_samples.png
+    ├── 02_autoencoder_reconstruction.png
+    ├── 03_autoencoder_loss.png
+    ├── 04_vae_reconstruction.png
+    ├── 05_vae_loss.png
+    ├── 06_dcgan_generated_grid.png
+    ├── 07_dcgan_losses.png
+    ├── 08_stable_diffusion_output.png
     └── INDEX.md
 ```
 
