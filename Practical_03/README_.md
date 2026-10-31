@@ -3,12 +3,19 @@
 ## Student Information
 
 | **College** | MIT Academy of Engineering, Alandi, Pune |
+
 | **Student Name** | Shreya Dattaram Bhosale |
+
 | **PRN Number** | 202502110010 |
+
 | **Class** | T.Y. B.Tech |
+
 | **Batch** | A3 |
+
 | **Course** | Generative AI Lab |
+
 | **Department** | CSE (AI & ML) |
+
 | **Practical Number** | 03 |
 | **Submission Date** | 29/09/2026 |
 
